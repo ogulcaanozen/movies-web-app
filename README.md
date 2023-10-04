@@ -4,4 +4,5 @@ This project is an basic imdb-like movie review web application where you can di
 # Tech Stack:
 
 -Java Spring Boot Framework for backend
+
 -React.js Framework for frontend
